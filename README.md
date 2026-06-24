@@ -4,14 +4,13 @@
 
 ### A modern, responsive real-estate landing page built for premium property discovery
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-16a34a?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-16a34a?style=for-the-badge&logo=vercel&logoColor=white)](http://jarirmultani-task-1.vercel.app)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 </div>
 
-> **Note:** Replace `https://your-live-demo-link.com` with your deployed website URL after hosting on Vercel, Netlify, or GitHub Pages.
 
 ---
 
@@ -25,7 +24,7 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/🌐_Open_Live_Demo-16a34a?style=for-the-badge" alt="Open Live Demo">](https://your-live-demo-link.com)
+[<img src="https://img.shields.io/badge/🌐_Open_Live_Demo-16a34a?style=for-the-badge" alt="Open Live Demo">](http://jarirmultani-task-1.vercel.app/)
 
 </div>
 
